@@ -9,18 +9,18 @@
  <br>
 <p align="left"> 
   Hey, how are you? my name is Leticia Cruz, I'm 23 years old. ♒
-  <br> I'm currently studying at two colleges: Analysis and development of systems by FMU & Systems for internet by UNINOVE.
+  <br> I'm currently studying at two colleges: Systems Analysis and Development by FMU & Technology in Internet Systems by UNINOVE.
 </p>
 
 <br>
 
 <p align="left">
-  🔭 I'm working as an intern at LOJAS-QUERO-QUERO, I'm learning and loving a lot.
+  🔭 I'm working as an intern developer at LOJAS-QUERO-QUERO, I'm learning and loving a lot.
 </p>
 <br>
 
 <p align="left">
- 📚 I have been working hard to become an expert in javascript and I started to study databases with postgresql
+ 📚 I've been working hard to become an javascript expert and I've recently started to learn databases with PostgreSQL.
 </p>
 <br>
 <p align="left">
