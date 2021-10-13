@@ -1,7 +1,6 @@
 # Hi, I'm Leticia Cruz! <img src="https://i.pinimg.com/originals/88/0e/f2/880ef25ca943198acb70789064811fa8.gif" width="30px">
 
 <br>
-<br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacmz)](https://github.com/leticiacmz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacmz/)](https://www.linkedin.com/in/leticiacmz/)
@@ -9,7 +8,7 @@
  <img height="300" width="300" src="https://i.pinimg.com/originals/22/cc/53/22cc53e30debfce951521b95835c56cc.gif" align="right">
 <br>
 <br>
- <br>
+ 
 <p align="left"> 
   Hey, how are you? my name is Leticia Cruz, I'm 23 years old. ♒
   <br> I'm currently studying at two colleges: Systems Analysis and Development by FMU & Technology in Internet Systems by UNINOVE.
