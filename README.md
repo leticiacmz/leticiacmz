@@ -2,7 +2,6 @@
 
 <br>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leticiacmz)](https://github.com/leticiacmz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacmz/)](https://www.linkedin.com/in/leticiacmz/)
 
  <img height="300" width="300" src="https://i.pinimg.com/originals/22/cc/53/22cc53e30debfce951521b95835c56cc.gif" align="right">
