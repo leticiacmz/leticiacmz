@@ -16,12 +16,12 @@
 <br>
 
 <p align="left">
-  🔭 I'm working as an intern developer at LOJAS-QUERO-QUERO, I'm learning and loving a lot.
+  🔭 I'm working as a data science intern at LOJAS-QUERO-QUERO, I'm learning and loving it a lot.
 </p>
 <br>
 
 <p align="left">
- 📚 I've been working hard to become an javascript expert and I've recently started to learn databases with PostgreSQL.
+ 📚 Now I've started working in the data science sector, so I've been studying Python, Selenium and messing around with excel too.
 </p>
 <br>
 <p align="left">
