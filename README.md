@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align="left">
-  💌 These are my contacts and the languages I work in: ⤵️
+  💌 These are my contacts: ⤵️
 </p>
 
 <p align="left">
@@ -15,19 +15,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiacmz/&style=flat-square" alt="LinkedIn"/></a>
 
   <a href="mailto:leticmz@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:leticmz@gmail.com&style=flat-square" alt="Gmail"/></a>
-
-  <a href="#" title="Python">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat-square" alt="Python"/></a>
-
-  
-  <a href="#" title="Django">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&style=flat-square" alt="Django"/></a>
-  
-  <a href="#" title="Javascript">
-  <img src="https://shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000&style=flat-square" alt="Javascript"/></a>
-
-
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:leticmz@gmail.com&style=flat-square" alt="Gmail"/></a> 
   
 </p>
 
