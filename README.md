@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" align="right">
 
 <p align="left"> 
-  Hello, my name is Leticia, I'm 25 and I'm currently working as a full-stack developing RPAs. In my free time I travel a lot, play instruments, read books and skate around.
+  Hello, my name is Leticia, I'm 28 and I'm currently working as a full-stack developing RPAs. In my free time I travel a lot, play instruments, read books and skate around.
   🛹👩🏽‍💻🎸⛵💖
 </p>
 <br>
