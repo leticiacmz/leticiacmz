@@ -18,5 +18,3 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:leticmz@gmail.com&style=flat-square" alt="Gmail"/></a> 
   
 </p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/leticiacmz/leticiacmz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/leticiacmz/leticiacmz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
