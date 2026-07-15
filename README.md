@@ -26,7 +26,7 @@ Outside of coding I enjoy traveling, playing instruments, skating, crocheting, r
 <p align="center">
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,selenium,react,nextjs,vue,css,ts,js,cs,dotnet,docker,aws,mongodb,postgres,mysql,redis,rabbitmq,sentry,git,vscode,jenkins&perline=8&theme=light&height=20"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,selenium,react,nextjs,vue,css,ts,js,cs,dotnet,docker,aws,mongodb,postgres,mysql,redis,rabbitmq,sentry,git,vscode,jenkins&perline=8"/>
 </p>
 
 </p>
@@ -63,12 +63,14 @@ The idea is to build a social platform where people can discover concerts, follo
 </p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/leticiacmz/leticiacmz/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/leticiacmz/leticiacmz/output/github-snake.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/leticiacmz/leticiacmz/output/github-snake.svg">
+  </picture>
 </p>
 
 Thanks for stopping by! Let's connect and build something amazing together. 🚀
