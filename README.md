@@ -1,23 +1,23 @@
-<h1 align="center">Hi there! 👋 I'm Leticia Cruz</h1>
+<h1 align="center">Hi there! 👋🏽 I'm Leticia Cruz</h1>
 
 <p align="center">
 Python Backend Developer • Full Stack Developer • Automation Engineer
 </p>
 
 <p align="center">
-📍 Brazil • 💼 Open to Work • ❤️ Building GigCrowd
+📍 Brazil • 💼 Open to Work
 </p>
 
-## 👩‍💻 About Me
+## 👩🏽‍💻 About Me
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="320px" align="right"/>
 
 I'm a Brazilian Software Engineer with over 4 years of experience building backend applications, REST APIs, automation solutions and scalable systems using Python.
 
 I'm currently looking for opportunities as a **Backend Python Developer** or **Full Stack Developer**, where I can contribute to impactful products while continuing to grow as an engineer.
 
-Outside of coding I enjoy traveling, playing instruments, skating, crocheting, reading, and watching movies & TV series.
+When I'm not coding, you'll probably find me traveling, at a concert, playing instruments, skating, crocheting, reading, or watching a good movie or TV series.
 <p align="center">
-✈️ 🎸 🛹 🧶 📚 🎬 ❤️
+✈️ 🌎🎤 🎶 🛹 🧶 📚 🎬 👩🏽‍💻 ❤️
 </p>
 
 
@@ -31,22 +31,17 @@ Outside of coding I enjoy traveling, playing instruments, skating, crocheting, r
 
 </p>
 
-## 🎵 GigCrowd
+## 🚀 Featured Project
 
-GigCrowd is my personal project, currently under development.
+### 🎵 GigCrowd
 
-The idea is to build a social platform where people can discover concerts, follow artists, keep their concert history, share experiences and connect with other live music fans.
+**GigCrowd** is my main personal project and is currently under development.
 
-### Built with
+Imagine Letterboxd for concerts, combined with the event discovery experience of Facebook Events. That's the idea behind GigCrowd: a social platform where live music fans can discover concerts, follow artists, build their concert history, and connect through shared experiences.
 
-- FastAPI
-- MongoDB
-- RabbitMQ
-- AWS
-- Docker
-- Next.js
-- React
-- TypeScript
+Building GigCrowd has been an incredible opportunity to deepen my knowledge of backend architecture, distributed systems, cloud technologies, and modern full-stack development.
+
+> 🚧 Work in progress — new features are being added continuously.
 
 ## 📫 Contact
 
